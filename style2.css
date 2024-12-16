@@ -1,0 +1,75 @@
+.menu {
+  background-color: rgb(209, 156, 9);
+  text-align: center;
+  color: white;
+  text-shadow: black 2px 2px 3px;
+}
+.menu img{
+  margin: auto;
+  padding: 5px;
+  width: 20%;
+}
+.menu2 {
+  background-color: rgb(71, 71, 71);
+  padding: 10px;
+  width: 100%;
+  color: white;
+  display: flex;
+}
+
+.k1:hover{
+  background-color: white;
+  color: black;
+  transition: ease-in-out 0.5s;
+
+}
+.k1 a:hover{
+  background-color: white;
+  color: black;
+  transition: ease-in-out 0.5s;
+}
+.k1{
+  display: inline-block;
+  text-decoration: none;
+}
+.k1 a{
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+}
+.k2 {
+  border: 1px solid grey;
+  width: 300px;
+  margin: auto;
+}
+.k3 {
+  border: 1px solid grey;
+  width: 300px;
+  margin: auto;
+}
+.k4 {
+  border: 1px solid grey;
+  width: 300px;
+  margin: auto;
+}
+.ust{
+  display: flex;
+  justify-content: space-between;
+}
+.k2 h1{
+  color: darkred;
+  display: block;
+}
+.yazi1{
+  padding: 5px;
+  color: darkred;
+}
+.yazi1 p{
+  color: black;
+}
+footer {
+  background-color: rgb(65, 65, 65);
+  padding: 30px;
+  width: 100%;
+  text-align: center;
+}
